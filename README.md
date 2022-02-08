@@ -1,1 +1,1 @@
-candy_rating
+[Web-App](http://candy-predictor.herokuapp.com/)
